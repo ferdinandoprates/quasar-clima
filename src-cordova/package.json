@@ -27,5 +27,8 @@
       },
       "cordova-plugin-splashscreen": {}
     }
+  },
+  "dependencies": {
+    "@quasar/cli": "^2.4.0"
   }
 }
