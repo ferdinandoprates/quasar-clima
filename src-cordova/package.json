@@ -1,8 +1,8 @@
 {
-  "name": "org.cordova.quasar.app",
-  "displayName": "quasar-clima",
-  "version": "1.0.0",
-  "description": "A sample Apache Cordova application that responds to the deviceready event.",
+  "name": "org.climatempofmpbr.app",
+  "displayName": "Clima e Tempo",
+  "version": "2.0.0",
+  "description": "sistema de visão de clima",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -12,12 +12,20 @@
   ],
   "author": "Apache Cordova Team",
   "license": "Apache-2.0",
+  "devDependencies": {
+    "cordova-android": "^12.0.1",
+    "cordova-plugin-geolocation": "^5.0.0",
+    "cordova-plugin-splashscreen": "^6.0.1"
+  },
   "cordova": {
     "platforms": [
       "android"
-    ]
-  },
-  "devDependencies": {
-    "cordova-android": "^12.0.1"
+    ],
+    "plugins": {
+      "cordova-plugin-geolocation": {
+        "GPS_REQUIRED": "true"
+      },
+      "cordova-plugin-splashscreen": {}
+    }
   }
 }

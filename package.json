@@ -1,12 +1,12 @@
 {
-  "name": "quasar-clima",
+  "name": "Clima e Tempo",
   "version": "0.0.1",
   "description": "Visualizador de clima",
   "productName": "quasar-clima",
   "author": "ferdinandoprates@hotmail.com",
   "private": true,
   "scripts": {
-    "test": "echo \"No test specified\" && exit 0"
+    "icons": "icongenie generate -i appIcon.png --skip-trim --theme-color 6B767D"
   },
   "dependencies": {
     "@quasar/extras": "^1.13.5",
@@ -17,7 +17,8 @@
   },
   "devDependencies": {
     "@quasar/app": "^2.3.0",
-    "@types/body-parser": "^1.19.5"
+    "@types/body-parser": "^1.19.5",
+    "workbox-webpack-plugin": "^5.1.4"
   },
   "browserslist": [
     "last 10 Chrome versions",
