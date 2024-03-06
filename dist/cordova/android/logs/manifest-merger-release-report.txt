@@ -43,15 +43,15 @@ INJECTED from C:\Users\ferdinando\Projetos\Desenvolvimento\4 Testes\quasar-clima
 		ADDED from C:\Users\ferdinando\Projetos\Desenvolvimento\4 Testes\quasar-clima\src-cordova\platforms\android\app\src\main\AndroidManifest.xml:2:1-16:12
 		INJECTED from C:\Users\ferdinando\Projetos\Desenvolvimento\4 Testes\quasar-clima\src-cordova\platforms\android\app\src\main\AndroidManifest.xml
 	android:versionName
-		ADDED from C:\Users\ferdinando\Projetos\Desenvolvimento\4 Testes\quasar-clima\src-cordova\platforms\android\app\src\main\AndroidManifest.xml:2:70-97
+		ADDED from C:\Users\ferdinando\Projetos\Desenvolvimento\4 Testes\quasar-clima\src-cordova\platforms\android\app\src\main\AndroidManifest.xml:2:74-101
 		INJECTED from C:\Users\ferdinando\Projetos\Desenvolvimento\4 Testes\quasar-clima\src-cordova\platforms\android\app\src\main\AndroidManifest.xml
 		INJECTED from C:\Users\ferdinando\Projetos\Desenvolvimento\4 Testes\quasar-clima\src-cordova\platforms\android\app\src\main\AndroidManifest.xml
 	android:hardwareAccelerated
 		ADDED from C:\Users\ferdinando\Projetos\Desenvolvimento\4 Testes\quasar-clima\src-cordova\platforms\android\app\src\main\AndroidManifest.xml:2:11-45
 	xmlns:android
-		ADDED from C:\Users\ferdinando\Projetos\Desenvolvimento\4 Testes\quasar-clima\src-cordova\platforms\android\app\src\main\AndroidManifest.xml:2:98-156
+		ADDED from C:\Users\ferdinando\Projetos\Desenvolvimento\4 Testes\quasar-clima\src-cordova\platforms\android\app\src\main\AndroidManifest.xml:2:102-160
 	android:versionCode
-		ADDED from C:\Users\ferdinando\Projetos\Desenvolvimento\4 Testes\quasar-clima\src-cordova\platforms\android\app\src\main\AndroidManifest.xml:2:46-69
+		ADDED from C:\Users\ferdinando\Projetos\Desenvolvimento\4 Testes\quasar-clima\src-cordova\platforms\android\app\src\main\AndroidManifest.xml:2:46-73
 		INJECTED from C:\Users\ferdinando\Projetos\Desenvolvimento\4 Testes\quasar-clima\src-cordova\platforms\android\app\src\main\AndroidManifest.xml
 		INJECTED from C:\Users\ferdinando\Projetos\Desenvolvimento\4 Testes\quasar-clima\src-cordova\platforms\android\app\src\main\AndroidManifest.xml
 supports-screens
